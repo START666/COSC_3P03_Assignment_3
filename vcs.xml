@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/START666/Java-Vector.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/START666/TSP-GeneticAlgorithm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/myCode/IntellijCode/Vector" />
+    <option name="cloneParentDir" value="$USER_HOME$/myCode/IntellijCode/TSPGeneticAlgorithm" />
   </component>
 </application>
