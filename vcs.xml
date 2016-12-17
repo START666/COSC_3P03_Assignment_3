@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/START666/TSP-GeneticAlgorithm.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/START666/COSC_3P71_Assign3_Part_A.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/myCode/IntellijCode/TSPGeneticAlgorithm" />
+    <option name="cloneParentDir" value="$USER_HOME$/myCode/IntellijCode/ACO" />
   </component>
 </application>
