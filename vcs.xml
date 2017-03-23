@@ -30,8 +30,12 @@
           <option name="url" value="https://github.com/START666/Android-Snaker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/START666/COSC_2P05_Assign3_2017.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/myCode/IntellijCode/Chess" />
+    <option name="cloneParentDir" value="$USER_HOME$/myCode/IntellijCode/COSC2P05/2017_Assign3" />
   </component>
 </application>
